@@ -1,0 +1,176 @@
+{
+    "message_battle_id": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_name": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_orientation": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_settings_minParticipants": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_settings_maschemaParticipants": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_settings_battleType": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_settings_wagerType": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_settings_countdown": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_settings_duration": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_settings_archetype_name": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_settings_archetype_iconId": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_status": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_creationTime": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_startTime": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_endTime": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_battle_creator_id": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_creator_nickname": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_creator_title": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_creator_accountType": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_creator_countryCode": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_creator_orientation": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_battle_participants": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "ARRAY"
+    },
+    "message_joiner_id": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_joiner_nickname": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_joiner_title": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_joiner_accountType": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_joiner_countryCode": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_joiner_orientation": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_participantIds": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "ENUM"
+    }
+}

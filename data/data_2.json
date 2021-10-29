@@ -1,0 +1,33 @@
+{
+    "attributes": {
+      "appName": "ABCDEFGHIJKLMNOPQRSTUVW",
+      "eventType": "ABCDEFGHIJKLMNOPQRSTUVWschemaYZ",
+      "subEventType": "ABCDEFGHIJKLMNO",
+      "sensitive": false
+    },
+    "message": {
+      "user": {
+        "id": "ABCDEFGHIJKLMNOP",
+        "nickname": "ABCD",
+        "title": "ABCDEFGHIJKLMNOPQRSTUVWschemaYZABC",
+        "accountType": "ABCDEFGHIJKLMNOPQRSTUVWschema",
+        "countryCode": "ABCDEFGHIJKLMNOPQRSTUVWschema",
+        "orientation": "ABCDEFGHIJKLMNOPQRSTU"
+      },
+      "time": 890,
+      "acl": [],
+      "publicFeed": false,
+      "internationalCountries": [
+        "ABCDEFGHIJKLMNOPQRSTUVWschemaYZA",
+        "ABCDEFGHIJKLMNOPQ",
+        "ABCDEFGHIJKLMNOPQRSTUVW",
+        "ABCDEFGHIJKLMNOPQRSTUVWschemaY",
+        "ABCDEFGHIJK",
+        "ABCDEFGHIJKLMNOPQRSTUVWschemaYZ",
+        "ABCDEFGHIJKLMNOPQR",
+        "ABCDEFG",
+        "ABCDEFGHIJKLM"
+      ],
+      "topTraderFeed": true
+    }
+  }

@@ -1,0 +1,67 @@
+{
+    "attributes": {
+      "appName": "ABCDEFG",
+      "eventType": "ABCDEFGHIJ",
+      "subEventType": "ABCDEFGHIJKLMNOPQRSTU",
+      "sensitive": true
+    },
+    "message": {
+      "battle": {
+        "id": "ABCDEFGHIJKLMNOPQR",
+        "name": "ABCDEFGHIJKLMNOPQRSTUVWschema",
+        "orientation": "ABCDEFGHIJKLMNO",
+        "settings": {
+          "minParticipants": 942,
+          "maschemaParticipants": 641,
+          "battleType": "ABCDEFGHIJKLMN",
+          "wagerType": "ABCDEFGHIJKLMNOPQRSTUVW",
+          "countdown": 69,
+          "duration": 200,
+          "archetype": {
+            "name": "ABCDEFGHIJKLMNOPQRS",
+            "iconId": "ABCDEFGHIJKLMNOPQRST"
+          }
+        },
+        "status": "ABCDEFGHIJKL",
+        "creationTime": 240,
+        "startTime": 626,
+        "endTime": 353,
+        "creator": {
+          "id": "ABCDEFGHIJKLMNOPQRSTUVWschemaYZA",
+          "nickname": "ABCDEFGHIJKLMNOPQ",
+          "title": "ABCDEFGHIJKLMNOPQRSTUVWschemaYZ",
+          "accountType": "ABCDE",
+          "countryCode": "ABCD",
+          "orientation": "ABCDEFGHIJKLMNO"
+        },
+        "participants": [
+          {
+            "user": {
+              "id": "ABCDEFGHIJKLMN",
+              "nickname": "ABCDEFGHIJKLMN",
+              "title": "ABCDEFGHIJK",
+              "accountType": "ABCDEFGHIJKLMNOPQRSTUVWschema",
+              "countryCode": "ABCDEFGH",
+              "orientation": "ABCDEFGHIJKLMNOPQRSTUVWschemaY"
+            },
+            "creator": false,
+            "ranking": 498,
+            "numberOfTrades": 862,
+            "performance": "ABCDEFGHIJKLMNOPQRSTUVW"
+          }
+        ]
+      },
+      "joiner": {
+        "id": "ABCDEFGHIJKLMNOPQRSTUVWschemaYZAB",
+        "nickname": "ABCDEFGHIJKLMNO",
+        "title": "ABCDEFGHIJKLMNOPQRSTUVWschemaYZABC",
+        "accountType": "ABCDEFGHIJKLMNOPQRS",
+        "countryCode": "ABCDEFGHIJKLMNOPQR",
+        "orientation": "ABCDEFGHIJKLMNOPQR"
+      },
+      "participantIds": [
+        "ABCDEFGHIJKLMNOPQRST",
+        "ABCDEFGHIJKLMNOPQRSTUVWschemaY"
+      ]
+    }
+  }

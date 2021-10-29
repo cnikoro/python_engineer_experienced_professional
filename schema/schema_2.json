@@ -1,0 +1,68 @@
+{
+    "message_user_id": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_user_nickname": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_user_title": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_user_accountType": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_user_countryCode": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_user_orientation": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "string"
+    },
+    "message_time": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "integer"
+    },
+    "message_acl": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "null"
+    },
+    "message_publicFeed": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "boolean"
+    },
+    "message_internationalCountries": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "ENUM"
+    },
+    "message_topTraderFeed": {
+        "tag": "",
+        "description": "",
+        "required": false,
+        "type": "boolean"
+    }
+}
